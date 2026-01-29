@@ -247,8 +247,8 @@ Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más información.
 ## 👤 Autor
 
 Tu Nombre
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [@AaronUgalde](https://github.com/AaronUgalde)
+- LinkedIn: [Ugalde-Tellez-Aaron](www.linkedin.com/in/ugalde-tellez-aaron-b76567353)
 
 ## 🙏 Agradecimientos
 
